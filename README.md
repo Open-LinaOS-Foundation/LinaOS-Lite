@@ -5,7 +5,7 @@
 - 同时我们集成了最先进的隐私功能，全方位的保障您的信息安全（详情请了解[`LinaLite.encryptedCommunication`](https://github.com/StickTech/LinaOS-Lite/blob/main/LinaLite.java#L531)方法）
 - 完全自主研发，没有参考任何外国文献。
 - 去中心化，无需联网即可使用。
-- 通用协议，采用了基于[Java](https://github.com/StickTech/LinaOS-Lite/blob/main/LinaLite.java)以及[JavaScript](https://github.com/StickTech/LinaOS-Lite/blob/main/LinaLite.js)的通用架构，可以运行在最小128KB内存的设备上，也可以运行在拥有114514PiB的服务器上。
+- 通用协议，采用了基于[Java](https://github.com/StickTech/LinaOS-Lite/blob/main/LinaLite.java)以及[JavaScript](https://github.com/StickTech/LinaOS-Lite/blob/main/LinaLite.js)的通用架构，可以运行在最小128KB内存的设备上，也可以运行在拥有1145141919810PiB的服务器上。
 - 当你被掐脖子的时候，你就会想起来LinaOS的好。
 - 对国产硬件提供更好的支持（详情请见[GouHanJianException ](https://github.com/StickTech/LinaOS-Lite/blob/main/LinaLite.java#L545)）
 ## 开发手册
