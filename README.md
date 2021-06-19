@@ -7,6 +7,6 @@
 - 去中心化，无需联网即可使用。
 - 通用协议，采用了基于[Java](https://github.com/StickTech/LinaOS-Lite/blob/main/LinaLite.java)以及[JavaScript](https://github.com/StickTech/LinaOS-Lite/blob/main/LinaLite.js)的通用架构，可以运行在最小128KB内存的设备上，也可以运行在拥有1145141919810PiB的服务器上。
 - 当你被掐脖子的时候，你就会想起来LinaOS的好。
-- 对国产硬件提供更好的支持（详情请见[GouHanJianException ](https://github.com/StickTech/LinaOS-Lite/blob/main/LinaLite.java#L545)）
+- 对国产硬件提供更好的支持（详情请见[GouHanJianException ](https://github.com/StickTech/LinaOS-Lite/blob/main/LinaLite.java#L545)以及[使用例](https://github.com/StickTech/LinaOS-Lite/blob/259590e5857d6d1f742b86dc25a7f5b23e8f9b33/LinaLite.java#L75)）
 ## 开发手册
 如果你想要参与到LinaOS的开发当中，请参见[这里](https://github.com/StickTech/LinaOS-Lite/blob/main/DevelopmentGuide.MD)。
