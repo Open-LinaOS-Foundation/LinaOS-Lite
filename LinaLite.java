@@ -521,6 +521,13 @@ public class LinaLite {
     public static int add114514(int integer) {
         return integer += 114514;
     }
+    
+    /**
+     * One of the the most cutting-edge Chinese encryption methods.
+     *
+     * @param s string to call
+     * @return encrypted data
+     */
     public static String encryptedCommunication(String s) {
         if (s.equals("歪比八不")) {
             return "歪比歪比";
