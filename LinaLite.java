@@ -521,6 +521,12 @@ public class LinaLite {
     public static int add114514(int integer) {
         return integer += 114514;
     }
+    public static String EmcriptCommunication(String s) {
+        if (s.equals("歪比八不")) {
+            return "歪比歪比";
+        }
+        return "呐";
+    }
 }
 
 
