@@ -1,4 +1,4 @@
-# LinaOS-Lite 灵钠OS青春版
+# LinaOS-Lite 灵衲OS青春版
 ## 功能介绍：
 - 一款优秀的`模块化`设置的操作系统。我们成功的将一个步骤拆分成了`多个步骤`，使得`运行时`更加有效率。
 - 同时我们集成了最先进的隐私功能，全方位的保障您的信息安全（详情请了解[`LinaLite.encryptedCommunication`](https://github.com/StickTech/LinaOS-Lite/blob/main/LinaLite.java)方法）
